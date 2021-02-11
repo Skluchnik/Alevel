@@ -26,3 +26,5 @@ L1 = [a, b]
 print(list(map(f1, L1)))
 print(list(map(f2, L1)))
 
+print(L1)
+
